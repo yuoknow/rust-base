@@ -12,6 +12,7 @@
 - [Merge sort](ba03/) — merge sort of command line arguments
 - [Byte add](byte_add/) — u8 addition with checked/wrapping/saturating modes
 - [Hello pixels](hello_pixels/) — 8x8 bitmap parser, renderer and inverter
+- [Toy MMU](mmu/) — MMU emulator
 
 ## Assembly
 
