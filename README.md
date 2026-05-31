@@ -19,3 +19,6 @@
 - [sum.s](asm/sum.s) — Сложение двух чисел с функцией и вызовом конвенции
 - [fib.s](asm/fib.s) — Число Фибоначчи из stdin (цикл, read syscall)
 - [answers.md](asm/answers.md) — Решения для bomb_hard
+
+## MMU
+- [Toy MMU](mmu/) — MMU emulator
