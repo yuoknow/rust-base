@@ -9,6 +9,7 @@ Cargo.lock
 *.iml
 *.swp
 *.swo
+*.bin
 
 # OS
 .DS_Store
