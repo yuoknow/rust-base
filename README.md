@@ -15,6 +15,7 @@
 - [Toy MMU](mmu/) — MMU emulator
 - [Buf](buf/) — BufReader / BufWriter impl
 - [Mini Shell](mini_shell/) - basic shell impl
+- [Thread Pool](thread_pool/) - basic thred pool impl
 
 ## Assembly
 
