@@ -14,6 +14,7 @@
 - [Hello pixels](hello_pixels/) — 8x8 bitmap parser, renderer and inverter
 - [Toy MMU](mmu/) — MMU emulator
 - [Buf](buf/) — BufReader / BufWriter impl
+- [Mini Shell](mini_shell/) - basic shell impl
 
 ## Assembly
 
